@@ -4,4 +4,4 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-module.exports = { images: { unoptimized: true } }
+module.exports = { images: { unoptimized: true }, exportTrailingSlash: true }
