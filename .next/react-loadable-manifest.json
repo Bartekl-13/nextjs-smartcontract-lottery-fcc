@@ -1,83 +1,56 @@
 {
   "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @toruslabs/openlogin-ed25519": {
-    "id": 33946,
+    "id": "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @toruslabs/openlogin-ed25519",
     "files": [
-      "static/chunks/108.417d0055123cb395.js",
-      "static/chunks/418.f83e301e5a20bce7.js"
+      "static/chunks/node_modules_toruslabs_openlogin-ed25519_dist_openloginEd25519_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/ethereum-provider": {
-    "id": 52062,
+    "id": "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/ethereum-provider",
     "files": [
-      "static/chunks/5b1be872.30be166421c52902.js",
-      "static/chunks/061e6b60.28bd444bb64e34ae.js",
-      "static/chunks/62.d3b8ab161ae14ae1.js",
-      "static/chunks/646.9a9975add8df160a.js"
+      "static/chunks/node_modules_web3auth_ethereum-provider_dist_ethereumProvider_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/solana-provider": {
-    "id": 44445,
+    "id": "../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/solana-provider",
     "files": [
-      "static/chunks/8015bd09.2bbf65b092b4762f.js",
-      "static/chunks/108.417d0055123cb395.js",
-      "static/chunks/335.acf9fa81c14accc3.js",
-      "static/chunks/918.8c5a7673a808947e.js"
+      "static/chunks/node_modules_web3auth_solana-provider_dist_solanaProvider_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/metamask-adapter": {
-    "id": 94429,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/metamask-adapter",
     "files": [
-      "static/chunks/429.4c12f9045a64af35.js"
+      "static/chunks/node_modules_web3auth_metamask-adapter_dist_metamaskAdapter_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/openlogin-adapter": {
-    "id": 86094,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/openlogin-adapter",
     "files": [
-      "static/chunks/29107295.1494f237b9e407ad.js",
-      "static/chunks/845.159fc36ead3f6725.js",
-      "static/chunks/94.2a5434d58d26f909.js"
+      "static/chunks/node_modules_web3auth_openlogin-adapter_dist_openloginAdapter_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/phantom-adapter": {
-    "id": 42848,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/phantom-adapter",
     "files": [
-      "static/chunks/29107295.1494f237b9e407ad.js",
-      "static/chunks/8015bd09.2bbf65b092b4762f.js",
-      "static/chunks/845.159fc36ead3f6725.js",
-      "static/chunks/108.417d0055123cb395.js",
-      "static/chunks/335.acf9fa81c14accc3.js",
-      "static/chunks/532.352ff3f94fe25d40.js"
+      "static/chunks/node_modules_web3auth_phantom-adapter_dist_phantomAdapter_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-evm-adapter": {
-    "id": 82184,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-evm-adapter",
     "files": [
-      "static/chunks/184.02d4e10355e9d66b.js",
-      "static/chunks/289.3c6461cb045bb5f5.js"
+      "static/chunks/node_modules_web3auth_torus-evm-adapter_dist_torusEvmAdapter_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-solana-adapter": {
-    "id": 56071,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-solana-adapter",
     "files": [
-      "static/chunks/29107295.1494f237b9e407ad.js",
-      "static/chunks/8015bd09.2bbf65b092b4762f.js",
-      "static/chunks/845.159fc36ead3f6725.js",
-      "static/chunks/108.417d0055123cb395.js",
-      "static/chunks/335.acf9fa81c14accc3.js",
-      "static/chunks/71.bc70ae3fa4cc5250.js",
-      "static/chunks/267.d52f9a057d762ede.js"
+      "static/chunks/node_modules_web3auth_torus-solana-adapter_dist_torusSolanaAdapter_esm_js.js"
     ]
   },
   "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/wallet-connect-v1-adapter": {
-    "id": 98201,
+    "id": "../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/wallet-connect-v1-adapter",
     "files": [
-      "static/chunks/29107295.1494f237b9e407ad.js",
-      "static/chunks/5b1be872.30be166421c52902.js",
-      "static/chunks/061e6b60.28bd444bb64e34ae.js",
-      "static/chunks/845.159fc36ead3f6725.js",
-      "static/chunks/62.d3b8ab161ae14ae1.js",
-      "static/chunks/201.7fe376820adfceb0.js",
-      "static/chunks/376.219c156265901a32.js"
+      "static/chunks/node_modules_web3auth_wallet-connect-v1-adapter_dist_walletConnectV1Adapter_esm_js.js"
     ]
   }
 }
